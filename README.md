@@ -47,3 +47,12 @@ La API se ejecutará en `http://127.0.0.1:5000/`
 ---
 📌 **Con esto, tienes una API funcional en Flask para manejar tareas! 🚀**
 
+---
+
+## 👨‍💻 **Autor**
+
+- **Desarrollado por JulioRom**
+- 📧 **Correo:** [julioandrescampos@gmail.com](mailto:julioandrescampos@gmail.com)
+- 🔗 **GitHub:** [https://github.com/JulioRom](https://github.com/JulioRom)
+
+
